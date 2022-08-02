@@ -13,4 +13,5 @@ Technologies used :-
  done styling using css to give more attractive look.for the backend used PHP . linked the php folder to the main html file also with the conatct me file.
  bootstarp is used to give styling to the login/logout page.used XAMPP software for my sql and apache working with php. to check the running stateof website while coding clicked on apache admin of XAMPP control pnael.and searched for the output as localhost/file name/ .
  to look it more attractive added some sports car in car list with there specification.attaching few images for the look of the website.
+ Then after completion uploaded the file on github by adding repository also deployed on the heroku wibsite if deploying website.
  
